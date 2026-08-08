@@ -39,7 +39,9 @@ git clone https://github.com/your-username/Digital-Clock.git
 ```
 
 2. Open the project folder.
-3. Open `index.html` in your browser.
+3. Open ## 🌐 Live Demo
+
+🔗 [View Live App](YOUR_LIVE_APP_LINK)) in your browser.
 
 ## 🎯 What I Learned
 
