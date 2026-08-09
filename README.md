@@ -41,7 +41,7 @@ git clone https://github.com/your-username/Digital-Clock.git
 2. Open the project folder.
 3. Open ## 🌐 Live Demo
 
-🔗 [Live_LINK](https://digital-clock-xi-snowy-76.vercel.app/))) in your browser.
+🔗 [Live-LINK](https://digital-clock-xi-snowy-76.vercel.app/) in your browser.
 
 ## 🎯 What I Learned
 
